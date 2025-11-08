@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "6614184887",
+    "project_id": "kudosphere-5c55e",
+    "storage_bucket": "kudosphere-5c55e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6614184887:android:213fa98b3d8adcce43ee32",
+        "android_client_info": {
+          "package_name": "com.example.kudosphere"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1_1skAcmbncx1cv8mkePHuAmbz5sl4Tg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
